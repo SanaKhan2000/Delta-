@@ -1,2 +1,2 @@
 # Delta- Delta demo app is created
-crated by Sana Khan
+crated by Sana Khan.
